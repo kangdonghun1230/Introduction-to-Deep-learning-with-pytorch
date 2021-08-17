@@ -1,2 +1,6 @@
 # Introduction to Deep learning with Pytorch
-pytorch로 시작하는 Deep learning 입문
+pytorch로 시작하는 Deep learning 입문<br>
+1. Tensor Manipulation<br>
+2. 선형 회귀(Linear Regression)<br>
+3. 로지스틱 회귀(Logistic Regression)<br>
+4. 소프트맥스 회귀(Softmax Regression)<br>
