@@ -6,3 +6,4 @@ pytorch로 시작하는 Deep learning 입문 코드 정리<br>
 3. 로지스틱 회귀(Logistic Regression)
 4. 소프트맥스 회귀(Softmax Regression)
 5. 인공신경망(Artificial Neural Network)
+6. 합성곱신경망(Convolutional Neural Network)
