@@ -1,5 +1,5 @@
 # Introduction to Deep learning with Pytorch
-pytorch로 시작하는 Deep learning 입문<br>
+pytorch로 시작하는 Deep learning 입문 코드 정리<br>
 
 1. Tensor Manipulation
 2. 선형 회귀(Linear Regression)
